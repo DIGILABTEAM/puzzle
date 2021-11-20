@@ -1,0 +1,9 @@
+{
+  "name": "puzzle",
+  "version": "1",
+  "description": "test mode",
+  "main": "index.js",
+  "repository": "https://github.com/DIGILABTEAM/puzzle.git",
+  "author": "Vikas Gavandi <30316401+DIGILABTEAM@users.noreply.github.com>",
+  "license": "MIT"
+}
